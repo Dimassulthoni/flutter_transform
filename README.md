@@ -1,16 +1,15 @@
 # flutter_transform
+fungsi transform widget, Matrix4, dan jenis-jenis transformasi.
 
-A new Flutter project.
+## Praktikum 1
+![ss](images/ft1.png)
+pada praktikum pertama ini dilakukan percobaan transform button-button mulai dari rotate, scale dan translate
 
-## Getting Started
+## Praktikum 2
+pada praktikum ini dilakukan percobaan prespective. pada gambar dibawah ini memperlihatkan widget build yang telah di transform
 
-This project is a starting point for a Flutter application.
+![ss](images/ft2.png)
 
-A few resources to get you started if this is your first Flutter project:
+pada gambar dibawah dilakukan penambahan GestureDetector yang berfungsi untuk mendeteksi gesture user untuk mengubah rotasi dari wiget
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss](images/ft3.png)
